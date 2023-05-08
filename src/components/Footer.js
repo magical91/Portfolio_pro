@@ -12,7 +12,8 @@ const Footer = () => {
                     <div>
                         <p>11401 Church Canyon Dr</p>
                         <p>Austin, TX</p>
-                    </div>
+                      </div>
+                      </div>
                     <div className="phone">
                         <h4>
                             <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
@@ -26,13 +27,11 @@ const Footer = () => {
                         </h4>
                     </div>
                 </div>
-              </div>
               
               <div className="right">
                   <h4>About the company:</h4>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa omnis itaque ipsa, saepe eos,
-                      aspernatur quam quis reprehenderit tenetur eveniet quae laudantium aut, quo praesentium
-                      error amet! Tempore, id repellendus.
+                      aspernatur quam quis
                   </p>
                   <div className="social">
                       <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
