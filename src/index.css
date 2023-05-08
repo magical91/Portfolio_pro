@@ -23,7 +23,7 @@ ul {
   list-style-type: none;
 }
 
-/* .btn {
+.btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
@@ -32,9 +32,9 @@ ul {
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
-} */
+}
 
-/* .btn-light {
+.btn-light {
   background: transparent;
   color: #fff;
 }
@@ -43,4 +43,4 @@ ul {
   background: rgba(255, 255, 255, .2);
   color: #fff;
   transition: .3s;
-} */
+}
