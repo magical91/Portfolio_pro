@@ -1,6 +1,6 @@
 import "./Hero.css";
 import React from 'react'
-import IntroImg from "../assests/1767974.webp";
+import IntroImg from "../assests/wb.jpg";
 
 import { Link } from "react-router-dom";
 
